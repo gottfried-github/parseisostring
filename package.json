@@ -1,0 +1,22 @@
+{
+  "name": "parseisodate",
+  "version": "0.0.1",
+  "description": "parse ISO date, as is formatted in javascript Date object",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "keywords": [
+    "regexp",
+    "date",
+    "time",
+    "ISO"
+  ],
+  "author": "gottfried",
+  "license": "MIT"
+}
