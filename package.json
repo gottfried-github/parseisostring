@@ -1,6 +1,6 @@
 {
   "name": "parseisotime",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "parse ISO 8601 formatted string into date, time and timezone components",
   "main": "src/index.js",
   "type": "module",
