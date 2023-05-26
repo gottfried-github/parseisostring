@@ -13,7 +13,7 @@ E.g., `2023-01-01T22:01:21.1Z` is parsed into:
 Only parses strings that don't contain any characters besides the date. E.g., this `a2023-01-01T22:01:21.1Z` will return `null`.
 
 # Usecase
-We can convert a time from a javascript `Date` object (`toISOString`) to date and time values for HTML inputs of the corresponding types.
+We can convert a time from a javascript `Date` object (it's `toISOString` method) to date and time values for HTML inputs of the corresponding types.
 
 # Explanation
 ## The format
